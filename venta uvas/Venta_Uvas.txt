@@ -1,0 +1,2 @@
+el precio total es: $99999.7
+El productor tiene una perdida  de: $0.3

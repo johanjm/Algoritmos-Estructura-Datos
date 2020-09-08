@@ -1,0 +1,5 @@
+Arreglo de elementos originales:
+3 2 1 6 
+Arreglo de elementos ordenados:
+3 1 2 6 
+Se utilizó el metodo de HeapSort
